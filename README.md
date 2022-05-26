@@ -36,68 +36,14 @@ class Program {
 
 ```java
 {
-  "array": [1, 11, 3, 0, 15, 5, 2, 4, 10, 7, 12, 6]
-}
-```
-
-#### Output
-
-### Test Case 2
-
-```java
-{
-  "array": [1]
-}
-```
-
-#### Output
-
-### Test Case 3
-
-```java
-{
-  "array": [1, 2]
-}
-```
-
-#### Output
-
-### Test Case 4
-
-```java
-{
-  "array": [4, 2, 1, 3]
-}
-```
-
-#### Output
-
-### Test Case 5
-
-```java
-{
-  "array": [4, 2, 1, 3, 6]
-}
-```
-
-#### Output
-
-### Test Case 6
-
-```java
-{
   "array": [8, 4, 2, 10, 3, 6, 7, 9, 1]
 }
 ```
 
 #### Output
 
-### Test Case 7
-
 ```java
 {
-  "array": [19, -1, 18, 17, 2, 10, 3, 12, 5, 16, 4, 11, 8, 7, 6, 15, 12, 12, 2, 1, 6, 13, 14]
+  [6,10]
 }
 ```
-
-#### Output
